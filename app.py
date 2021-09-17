@@ -1,4 +1,3 @@
-  
 import cv2
 from random import randint
 import webbrowser
